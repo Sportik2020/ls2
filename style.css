@@ -1,0 +1,48 @@
+.header > h1{
+    color: red
+}
+.header > p {
+    color: blue;
+}
+.header > h2{
+    color: red;
+}
+.main-content > h2{
+    color: red;
+}
+.main-content > h2 > span{
+    color: blue;
+}
+.main-content > div h2 {
+    color: yellow;
+}
+.main-content > div > h2 span{
+    color: blue;
+}
+.main-content > div p {
+    color: yellow;
+}
+.main-content .inner-element h2 {
+    color: blue;
+}
+.main-content .inner-element p {
+    color: blue;
+}
+.secondary-block > div h2{
+    color: red;
+}
+.secondary-block > div p {
+    color: red;
+}
+.footer h2  {
+    color: magenta;
+}
+.footer > p {
+    color:red;
+}
+.footer h2+p{
+    color: magenta;
+}
+.footer div p{
+    color: red;
+}
